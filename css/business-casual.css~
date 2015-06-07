@@ -190,7 +190,3 @@ footer p {
         clear: both;
     }
 }
-
-.brand {
-	color: #ff0000;
-}
